@@ -15,7 +15,7 @@ Run `node app` to start the application and navigate to [http://localhost:3000/g
 
 For the purpose of this challenge, I used mLab for hosting the database that the API will query from. 
 
-The database is prepopulated with two Shops, two Orders, four Products and four Line Items.
+The database is prepopulated with two Shops, two Orders, four Products and five Line Items.
 
 ## Operations
 
