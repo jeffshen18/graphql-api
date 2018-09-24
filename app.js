@@ -10,7 +10,6 @@ mongoose.connection.once('open', () => {
   console.log('connected to database');
 })
 
-
 // bind express with graphql
 app.use('/graphql', graphqlHTTP({
     schema,
